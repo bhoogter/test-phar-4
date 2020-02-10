@@ -20,3 +20,4 @@ deploy:
   file: test-phar-4.phar
   on:
     repo: bhoogter/test-phar-4
+    tags: true
